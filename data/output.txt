@@ -1,0 +1,226 @@
+Portfolio Summary Report
+===========================================================================================================================================
+Portfolio   Owner                   Manager                    Fees       Commisions      Weighted Risk          Return           Total 
+UWU42       Senaviev,Alexsandr      Kessikbayev,Shuhrat        0          0.00            1.0438                 73797.90         431062.96
+UWU60       Cohen,Eliza             Furaha,Ngugi               0          0.00            20.1933                25845.46         504761.70
+OWO13       Quispe,Azucena          Cohen,Eliza                0          0.00            4.5815                 88653.31         210100.00
+QWQ91       Kotz,Elias              Long,Liu                   0          0.00            3.9946                 1795.39          637581.75
+OWO20       Hwa,Chul                Streicher,Marius           0          0.40            0.0000                 10.78            420.60
+OWO10       Streicher,Marius        Senaviev,Alexsandr         0          2584.64         4.2362                 68923.72         450129.68
+QWQ66       Furaha,Ngugi            Long,Liu                   0          0.00            19.6206                19767.11         271745.60
+YWY78       Kessikbayev,Shuhrat     Quispe,Azucena             150        547.36          4.5700                 43788.70         103854.68
+POP55       Long,Liu                Kessikbayev,Shuhrat        0          0.00            20.8548                19020.00         240000.00
+DIT22       Shah,Jaimini            Cohen,Eliza                0          0.00            3.8199                 -106.54          253368.08
+
+Portfolio Details
+===========================================================================================================================================
+Portfolio UWU420
+------------------------------------
+Owner:
+Senaviev,Alexsandr
+Expert Broker
+[lordchanka@russia.com]
+41 South Carpenter Road
+San Antonio, TX USA 78213
+Manager:
+Kessikbayev,Shuhrat
+Beneficiary:
+Streicher,Marius
+Expert Broker
+[giveacog@yahoo.com,nogrenade@yahoo.com]
+51 Honey Creek St.
+Winter Haven, FL USA 33880
+Manager:
+Streicher,Marius
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+A0D38ZU28E   Twitter Inc.                     25.23                 -0.2045 74136.33                 293879.60
+Z8YMUVH94L   Thairath News                    -0.09                 1.2484 -338.43                  137183.36
+
+							-----------------------------------------------------
+                                                        Totals      1.0438 73797.90                 431062.96
+Portfolio UWU609
+------------------------------------
+Owner:
+Cohen,Eliza
+[ashnoacog@rushb.com]
+891 Sheffield
+St.Leominster, MA USA 01453
+Manager:
+Furaha,Ngugi
+Beneficiary:
+None
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+ZZKA9HUXFG   Apple                            42.45                 0.1467 6818.45                  16061.50
+QQF6YJNU7O   Savings Account                  0.20                  0.0000 7.01                     3500.20
+N29PKG0WMB   SCS Instruments                  2.38                  20.0466 19020.00                 485200.00
+
+							-----------------------------------------------------
+                                                        Totals     20.1933 25845.46                 504761.70
+Portfolio OWO131
+------------------------------------
+Owner:
+Quispe,Azucena
+Junior Broker
+[goodops@gmail.com,zerodeath@gmail.com]
+11 West Eagle Street
+Pittsford, NY USA 14534
+Manager:
+Cohen,Eliza
+Beneficiary:
+None
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+ZZKA9HUXFG   Apple                            42.45                 4.5815 88639.85                 208799.50
+CTWA3V788M   Money Market Savings             1.04                  0.0000 13.46                    1300.50
+
+							-----------------------------------------------------
+                                                        Totals      4.5815 88653.31                 210100.00
+Portfolio QWQ911
+------------------------------------
+Owner:
+Kotz,Elias
+[flash@urface.com]
+178 N. Wild Rose Court
+New Philadelphia, OH USA 44663
+Manager:
+Long,Liu
+Beneficiary:
+Hwa,Chul
+[bosgacog@bikinibodhi.com]
+9 Squaw Creek St.
+Fremont, OH USA 43420
+Manager:
+Hwa,Chul
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+JB2OIGZKN3   Money Market Savings             2.56                  0.0000 15.38                    600.34
+NICE-42069   DIT ME DUONG                     0.30                  3.0436 2102.91                  480908.61
+Z8YMUVH94L   Thairath News                    -0.09                 0.9510 -338.43                  154572.80
+CTWA3V788M   Money Market Savings             1.04                  0.0000 15.53                    1500.00
+
+							-----------------------------------------------------
+                                                        Totals      3.9946  1795.39                 637581.75
+Portfolio OWO200
+------------------------------------
+Owner:
+Hwa,Chul
+[bosgacog@bikinibodhi.com]
+9 Squaw Creek St.
+Fremont, OH USA 43420
+Manager:
+Streicher,Marius
+Beneficiary:
+None
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+JB2OIGZKN3   Money Market Savings             2.56                  0.0000 10.78                    420.60
+
+							-----------------------------------------------------
+                                                        Totals      0.0000    10.78                    420.60
+Portfolio OWO101
+------------------------------------
+Owner:
+Streicher,Marius
+Expert Broker
+[giveacog@yahoo.com,nogrenade@yahoo.com]
+51 Honey Creek St.
+Winter Haven, FL USA 33880
+Manager:
+Senaviev,Alexsandr
+Beneficiary:
+Kessikbayev,Shuhrat
+[papafuze@hostage.edu]
+9807 Cactus Ave.
+Oswego, NY USA 13126
+Manager:
+Kessikbayev,Shuhrat
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+ZZKA9HUXFG   Apple                            42.45                 1.6120 66820.81                 157402.70
+NICE-42069   DIT ME DUONG                     0.30                  2.6242 2102.91                  292726.98
+
+							-----------------------------------------------------
+                                                        Totals      4.2362 68923.72                 450129.68
+Portfolio QWQ666
+------------------------------------
+Owner:
+Furaha,Ngugi
+[nojaeger@r6.com]
+9382 Ann Ave.
+Pensacola, FL USA 32503
+Manager:
+Long,Liu
+Beneficiary:
+None
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+5LWATX8ER8   Microsoft Corporation            4.50                  -0.0258 632.04                   14045.25
+S07JVTB1QF   10-year CD                       9.16                  0.0000 109.89                   1200.35
+N29PKG0WMB   SCS Instruments                  2.38                  19.6464 19020.00                 256000.00
+CTWA3V788M   Money Market Savings             1.04                  0.0000 5.18                     500.00
+
+							-----------------------------------------------------
+                                                        Totals     19.6206 19767.11                 271745.60
+Portfolio YWY789
+------------------------------------
+Owner:
+Kessikbayev,Shuhrat
+[papafuze@hostage.edu]
+9807 Cactus Ave.
+Oswego, NY USA 13126
+Manager:
+Quispe,Azucena
+Beneficiary:
+None
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+ZZKA9HUXFG   Apple                            42.45                 4.5700 43706.26                 102954.22
+S07JVTB1QF   10-year CD                       9.16                  0.0000 82.44                    900.46
+
+							-----------------------------------------------------
+                                                        Totals      4.5700 43788.70                 103854.68
+Portfolio POP552
+------------------------------------
+Owner:
+Long,Liu
+[coronavirus@wuhan.com]
+164 Valley Avenue
+Saint Albans, NY USA 11412
+Manager:
+Kessikbayev,Shuhrat
+Beneficiary:
+None
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+N29PKG0WMB   SCS Instruments                  2.38                  20.8548 19020.00                 240000.00
+
+							-----------------------------------------------------
+                                                        Totals     20.8548 19020.00                 240000.00
+Portfolio DIT222
+------------------------------------
+Owner:
+Shah,Jaimini
+[sniper@gmail.com]
+1 Southampton Dr.
+Bensalem, PA USA 19020
+Manager:
+Cohen,Eliza
+Beneficiary:
+Senaviev,Alexsandr
+Expert Broker
+[lordchanka@russia.com]
+41 South Carpenter Road
+San Antonio, TX USA 78213
+Manager:
+Senaviev,Alexsandr
+Assets:
+Code         Asset                            Return Rate           Risk   Annual Return            Value 
+JB2OIGZKN3   Money Market Savings             2.56                  0.0000 16.41                    640.60
+5LWATX8ER8   Microsoft Corporation            4.50                  -0.0091 207.11                   4602.45
+Z8YMUVH94L   Thairath News                    -0.09                 3.8290 -338.43                  247316.48
+CTWA3V788M   Money Market Savings             1.04                  0.0000 8.37                     808.55
+
+							-----------------------------------------------------
+                                                        Totals      3.8199  -106.54                 253368.08

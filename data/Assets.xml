@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<assets>
+<com.tbf.assets.DepositAccount>
+ <assetCode>CTWA3V788M</assetCode>
+ <label>Money Market Savings</label>
+ <apr>1.030000</apr>
+</com.tbf.assets.DepositAccount>
+<com.tbf.assets.DepositAccount>
+ <assetCode>QQF6YJNU7O</assetCode>
+ <label>Savings Account</label>
+ <apr>0.200000</apr>
+</com.tbf.assets.DepositAccount>
+<com.tbf.assets.DepositAccount>
+ <assetCode>JB2OIGZKN3</assetCode>
+ <label>Money Market Savings</label>
+ <apr>2.530000</apr>
+</com.tbf.assets.DepositAccount>
+<com.tbf.assets.DepositAccount>
+ <assetCode>S07JVTB1QF</assetCode>
+ <label>10-year CD</label>
+ <apr>8.760000</apr>
+</com.tbf.assets.DepositAccount>
+<com.tbf.assets.Stock>
+ <assetCode>5LWATX8ER8</assetCode>
+ <label>Microsoft Corporation</label>
+ <baseQuarterlyDividend>0.000000</baseQuarterlyDividend>
+ <baseRateOfReturn>4.500000</baseRateOfReturn>
+ <stockSymbol>MSFT</stockSymbol>
+ <sharePrice>30.500000</sharePrice>
+ <beta>-0.500000</beta>
+<com.tbf.assets.Stock>
+<com.tbf.assets.Stock>
+ <assetCode>A0D38ZU28E</assetCode>
+ <label>Twitter Inc.</label>
+ <baseQuarterlyDividend>3.500000</baseQuarterlyDividend>
+ <baseRateOfReturn>20.320000</baseRateOfReturn>
+ <stockSymbol>TWTR</stockSymbol>
+ <sharePrice>285.320000</sharePrice>
+ <beta>-0.300000</beta>
+<com.tbf.assets.Stock>
+<com.tbf.assets.Stock>
+ <assetCode>ZZKA9HUXFG</assetCode>
+ <label>Apple</label>
+ <baseQuarterlyDividend>10.000000</baseQuarterlyDividend>
+ <baseRateOfReturn>30.000000</baseRateOfReturn>
+ <stockSymbol>APL</stockSymbol>
+ <sharePrice>321.230000</sharePrice>
+ <beta>4.610000</beta>
+<com.tbf.assets.Stock>
+<com.tbf.assets.PrivateInvestment>
+ <assetCode>N29PKG0WMB</assetCode>
+ <label>SCS Instruments</label>
+ <baseQuarterlyDividend>75.000000</baseQuarterlyDividend>
+ <baseRateOfReturn>20.000000</baseRateOfReturn>
+ <totalAmount>800000.000000</totalAmount>
+<omega>20.000000</omega>
+</com.tbf.assets.PrivateInvestment>
+<com.tbf.assets.PrivateInvestment>
+ <assetCode>Z8YMUVH94L</assetCode>
+ <label>Thairath News</label>
+ <baseQuarterlyDividend>12.000000</baseQuarterlyDividend>
+ <baseRateOfReturn>3.200000</baseRateOfReturn>
+ <totalAmount>386432.000000</totalAmount>
+<omega>3.200000</omega>
+</com.tbf.assets.PrivateInvestment>
+<com.tbf.assets.PrivateInvestment>
+ <assetCode>NICE-42069</assetCode>
+ <label>DIT ME DUONG</label>
+ <baseQuarterlyDividend>3.000000</baseQuarterlyDividend>
+ <baseRateOfReturn>3.200000</baseRateOfReturn>
+ <totalAmount>696969.000000</totalAmount>
+<omega>3.200000</omega>
+</com.tbf.assets.PrivateInvestment>
+</assets>
